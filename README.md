@@ -32,7 +32,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clrsurya11" height="60" width="60" />
 </a> &ensp; &ensp;
 <a href="https://www.linkedin.com/in/clrsurya11" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/clrsurya11" height="60" width="60" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clrsurya11" height="60" width="60" />
 </a> &ensp; &ensp;
 <a href="https://leetcode.com/singhsuryakant9011/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/singhsuryakant9011/" height="60" width="60" />
