@@ -31,7 +31,7 @@
 <a href="https://twitter.com/clrsurya11" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clrsurya11" height="60" width="60" />
 </a> &ensp; &ensp;
-<a href="https://linkedin.com/in/https://linkedin.com/in/ clrsurya11" target="blank">
+<a href="https://www.linkedin.com/in/clrsurya11" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ clrsurya11" height="60" width="60" />
 </a> &ensp; &ensp;
 <a href="https://leetcode.com/singhsuryakant9011/" target="blank">
@@ -39,6 +39,7 @@
 </a> &ensp; &ensp;
 </p>
 <br>
+
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
