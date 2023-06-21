@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **singhsuryakant9011@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/folders/1FEpqVFlSjXop7tnDzRwHH_8bhzzJmxfM"> Suryakant-Singh-Resume.pdf </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kBdAeE0BNjlNOoXdLf-q9CGft1Oke0v0/view?usp=sharing"> Suryakant-Singh-Resume.pdf </a>
 
 - ⚡ Fun fact about me is **I keep people entertained which makes them refreshen.**
 <br>
